@@ -5,12 +5,12 @@ The school board has found evidence of dishonesty with math and reading scores o
 analysis and reporting on Thomas High School math and reading scores. She first did a district level analysis that included the tampered data. Next she replaced math and reading scores of only Thomas High School with NaNs to see how it impacted the overall analysis.
 
 ### Results:
-* How is the district summary affected?
-  Before replacing the reading and math scores with NaNs, the overall passing percentage for 15 schools was 65.17%
+Q: How is the district summary affected?
+A: Below is the list of four changes to the school district analysis after reading and math scores have been replaced.
+
+  * Before replacing the reading and math scores with NaNs, the overall passing percentage for 15 schools was 65.17%. This reduced to         62.11% after replacing NaNs
   
   ![My image](https://github.com/neesha2022/School_District_Analysis_Assignment/blob/main/Resources/Without%20NaNs.png)
-  
-  This reduced to 62.11% after replacing NaNs
   
   ![My image](https://github.com/neesha2022/School_District_Analysis_Assignment/blob/main/Resources/Without%20NaNs.png)
 
