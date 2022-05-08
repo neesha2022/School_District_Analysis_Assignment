@@ -12,7 +12,7 @@ A: Below is the list of four changes to the school district analysis after readi
   
   ![My image](https://github.com/neesha2022/School_District_Analysis_Assignment/blob/main/Resources/Without%20NaNs.png)
   
-  ![My image](https://github.com/neesha2022/School_District_Analysis_Assignment/blob/main/Resources/Without%20NaNs.png)
+  ![My image](https://github.com/neesha2022/School_District_Analysis_Assignment/blob/main/Resources/Screen%20Shot%202022-05-07%20at%209.22.46%20PM.png)
 
 ### For all the 15 schools
 ### * How is the school summary affected?
