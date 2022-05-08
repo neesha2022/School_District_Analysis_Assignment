@@ -10,6 +10,7 @@ analysis and reporting on Thomas High School math and reading scores. She first 
   ![My image](https://github.com/neesha2022/School_District_Analysis_Assignment/blob/main/Resources/Without%20NaNs.png)
   
   This reduced to 62.11% after replacing NaNs
+  ![My image](https://github.com/neesha2022/School_District_Analysis_Assignment/blob/main/Resources/Screen%20Shot%202022-05-07%20at%209.22.46%20PM.png)
 
 ### For all the 15 schools
 
