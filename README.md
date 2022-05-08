@@ -8,12 +8,18 @@ analysis and reporting on Thomas High School math and reading scores. She first 
 Q: How is the district summary affected?
 A: Below are the list of changes to the school district analysis after reading and math scores were replaced.
 
+
+
   * Before replacing the reading and math scores with NaNs, the overall passing percentage for 15 schools was 65.17%. This reduced to         62.11% after replacing NaNs
   * The percentage of passing Reading went down from 85.80% to 85.66%
   * The percentage of passing Math went down from 74.98% to 71.93%
   * There was no change in the total budget
   
-  ![My image]
+  #### District Analysis -Original ###
+  ![My image](https://github.com/neesha2022/School_District_Analysis_Assignment/blob/main/Resources/Capture%201.png)
+  
+  #### District Analysis -Post NaNs ###
+  ![My image](https://github.com/neesha2022/School_District_Analysis_Assignment/blob/main/Resources/Capture%202.png)
   
 
 ### For all the 15 schools
