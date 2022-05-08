@@ -16,12 +16,12 @@ analysis and reporting on Thomas High School math and reading scores. She first 
 
 ### For all the 15 schools
 
-*# How is the school summary affected?
+### * How is the school summary affected?
   Below is a school summary data of all the top 5 schools. THS is at the second place with an overall passing rate of 90.63%
   ![My image](https://github.com/neesha2022/School_District_Analysis_Assignment/blob/main/Resources/top%205%20schools.png)
   
- ### How does replacing the ninth-grade scores affect the following:
- * Math and reading scores by grade
+### How does replacing the ninth-grade scores affect the following:
+### * Math and reading scores by grade
    After replacing with NaNs, THS's reading scores for 9th, 10th, 11th, and 12th grade reading scores were 84.3, 83.6, and 83.8.
   
   ![My image](https://github.com/neesha2022/School_District_Analysis_Assignment/blob/main/Resources/Reading.png)
@@ -31,15 +31,15 @@ analysis and reporting on Thomas High School math and reading scores. She first 
   
   As we can see, the overall impact of removing the scores of ninth graders was less than 1% across the schools. 
 
-* Scores by school spending
+### * Scores by school spending
 ![My image](https://github.com/neesha2022/School_District_Analysis_Assignment/blob/main/Resources/Score%20of%20school%20by%20pending.png)
 
-* Scores by school size
+### * Scores by school size
  ![My image](https://github.com/neesha2022/School_District_Analysis_Assignment/blob/main/Resources/Scores%20by%20school%20size%20.png)
 
-* Scores by school type
-* By Charter
+### * Scores by school type
+### * By Charter
  ![My image](https://github.com/neesha2022/School_District_Analysis_Assignment/blob/main/Resources/School%20type%20-%20Charter.png)
  
- * By District
+### * By District
  ![My image](https://github.com/neesha2022/School_District_Analysis_Assignment/blob/main/Resources/School%20type%20-District.png)
