@@ -44,3 +44,4 @@ analysis and reporting on Thomas High School math and reading scores. She first 
 ### * Scores by school type
 ![My image](https://github.com/neesha2022/School_District_Analysis_Assignment/blob/main/Resources/Screen%20Shot%202022-05-08%20at%202.33.18%20AM.png)
 
+Charter schools are better performing than district schools. It is also evident from our top 5 and bottom 5 schools list. All the top 5 are charter schools. 
