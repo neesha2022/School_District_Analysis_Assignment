@@ -10,10 +10,10 @@ A: Below are the list of changes to the school district analysis after reading a
 
 
 
-  * Before replacing the reading and math scores with NaNs, the overall passing percentage for 15 schools was 65.17%. This reduced to         62.11% after replacing NaNs
+  * Before replacing the reading and math scores with NaNs, the overall passing percentage for 15 schools was 65.17%. This reduced to         64.85% after replacing NaNs
   * The percentage of passing Reading went down from 85.80% to 85.66%
-  * The percentage of passing Math went down from 74.98% to 71.93%
-  * There was no change in the total budget
+  * The percentage of passing Math went down from 74.98% to 74.76%
+  * The total number of students in the 9th grade at THS is 461. This only make up on 1.17% of the       total student count of 39170. So     removing their math and reading scores had a mimial impact on the overall district analysis. 
   
   #### District Analysis -Original ###
    ![My image](https://github.com/neesha2022/School_District_Analysis_Assignment/blob/main/Resources/Capture%202.png)
