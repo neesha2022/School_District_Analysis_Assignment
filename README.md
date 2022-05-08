@@ -16,7 +16,7 @@ analysis and reporting on Thomas High School math and reading scores. She first 
 
 ### For all the 15 schools
 
-#* How is the school summary affected?
+*# How is the school summary affected?
   Below is a school summary data of all the top 5 schools. THS is at the second place with an overall passing rate of 90.63%
   ![My image](https://github.com/neesha2022/School_District_Analysis_Assignment/blob/main/Resources/top%205%20schools.png)
   
