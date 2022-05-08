@@ -6,10 +6,10 @@ analysis and reporting on Thomas High School math and reading scores. She first 
 
 ### Results:
 Q: How is the district summary affected?
-A: Below is the list of four changes to the school district analysis after reading and math scores have been replaced.
+A: Below are the list of changes to the school district analysis after reading and math scores were replaced.
 
-  * Before replacing the reading and math scores with NaNs, the overall passing percentage for 15 schools was 65.17%. 
-  * This reduced to 62.11% after replacing NaNs
+  * Before replacing the reading and math scores with NaNs, the overall passing percentage for 15 schools was 65.17%. This reduced to         62.11% after replacing NaNs
+  * 
   * The average score went down from 
   * The Math score went down from 
   * 
