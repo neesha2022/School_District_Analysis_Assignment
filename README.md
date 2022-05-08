@@ -16,10 +16,11 @@ A: Below are the list of changes to the school district analysis after reading a
   * There was no change in the total budget
   
   #### District Analysis -Original ###
-  ![My image](https://github.com/neesha2022/School_District_Analysis_Assignment/blob/main/Resources/Capture%201.png)
-  
+   ![My image](https://github.com/neesha2022/School_District_Analysis_Assignment/blob/main/Resources/Capture%202.png)
+   
   #### District Analysis -Post NaNs ###
-  ![My image](https://github.com/neesha2022/School_District_Analysis_Assignment/blob/main/Resources/Capture%202.png)
+   ![My image](https://github.com/neesha2022/School_District_Analysis_Assignment/blob/main/Resources/Capture%201.png)
+  
   
 
 ### For all the 15 schools
