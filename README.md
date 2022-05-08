@@ -33,6 +33,7 @@ analysis and reporting on Thomas High School math and reading scores. She first 
 ![My image](https://github.com/neesha2022/School_District_Analysis_Assignment/blob/main/Resources/Score%20of%20school%20by%20pending.png)
 
 * Scores by school size
+![My image]
 
 * Scores by school type
- 
+ ![My image]
