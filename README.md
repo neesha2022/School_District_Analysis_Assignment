@@ -9,10 +9,9 @@ Q: How is the district summary affected?
 A: Below are the list of changes to the school district analysis after reading and math scores were replaced.
 
   * Before replacing the reading and math scores with NaNs, the overall passing percentage for 15 schools was 65.17%. This reduced to         62.11% after replacing NaNs
-  * 
-  * The average score went down from 
-  * The Math score went down from 
-  * 
+  * The percentage of passing Reading went down from 85.80% to 85.66%
+  * The percentage of passing Math went down from 74.98% to 71.93%
+  * There was no change in the total budget
   
   ![My image](https://github.com/neesha2022/School_District_Analysis_Assignment/blob/main/Resources/Without%20NaNs.png)
   
