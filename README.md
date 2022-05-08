@@ -18,10 +18,11 @@ analysis and reporting on Thomas High School math and reading scores. She first 
   Below is a school summary data of all the top 5 schools. THS is at the second place with an overall passing rate of 90.63%
   ![My image](https://github.com/neesha2022/School_District_Analysis_Assignment/blob/main/Resources/top%205%20schools.png)
   
-  Comparing it with 
+  After replacing with NaNs, THS's reading scores for 9th, 10th, 11th, and 12th grade reading scores were 83.1, 83.5, and 83.5.
   
   ![My image](https://github.com/neesha2022/School_District_Analysis_Assignment/blob/main/Resources/Reading.png)
   
+   After replacing with NaNs, THS's reading scores for 9th, 10th, 11th, and 12th grade math scores were 83.1, 83.5, and 83.5.
   ![My image](https://github.com/neesha2022/School_District_Analysis_Assignment/blob/main/Resources/Math%20score%20by%20grade.png)
   
 
