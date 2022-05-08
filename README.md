@@ -13,9 +13,9 @@ A: Below are the list of changes to the school district analysis after reading a
   * The percentage of passing Math went down from 74.98% to 71.93%
   * There was no change in the total budget
   
-  ![My image](https://github.com/neesha2022/School_District_Analysis_Assignment/blob/main/Resources/Without%20NaNs.png)
+  ![My image]
   
-  ![My image](https://github.com/neesha2022/School_District_Analysis_Assignment/blob/main/Resources/Screen%20Shot%202022-05-07%20at%209.22.46%20PM.png)
+  
 
 ### For all the 15 schools
 ### * How is the school summary affected?
