@@ -22,7 +22,7 @@ analysis and reporting on Thomas High School math and reading scores. She first 
   
   ![My image](https://github.com/neesha2022/School_District_Analysis_Assignment/blob/main/Resources/Reading.png)
   
-  ![My image](https://github.com/neesha2022/School_District_Analysis_Assignment/blob/main/Resources/Math%20score%20by%20)
+  ![My image](https://github.com/neesha2022/School_District_Analysis_Assignment/blob/main/Resources/Math%20score%20by%20grade.png)
   
 
 
